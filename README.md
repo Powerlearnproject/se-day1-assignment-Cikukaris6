@@ -12,7 +12,7 @@ Its importanc: Helps create efficient systems that procee large amounts of data
               Helps automate tasks like data processing and security monitoring
               Helps protect sensitive data
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering. 
 Mastering complexity
 Mastering process 
 Mastering machine
